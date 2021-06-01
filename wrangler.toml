@@ -1,0 +1,10 @@
+name = "kv-db"
+type = "javascript"
+
+account_id = "a5a9478b9771b03c8330d3e8d19777c9"
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [
+   { binding = "kvdb", preview_id = "df1d263a113f45ee8e553c4e5127c22d", id = "9fcf5dea34204ac394ba8c8ed19673ae" }
+]
